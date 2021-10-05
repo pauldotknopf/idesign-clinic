@@ -1,0 +1,1 @@
+Removing sideways calls introduces the need for a composition root, a single point at which the stiching of modules happens to provide real-work use-cases.
